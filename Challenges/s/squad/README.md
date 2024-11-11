@@ -3,7 +3,6 @@
 
 Para este desafio você terá que consumir a API da OMDB (http://www.omdbapi.com/) e apresentar o resultado em uma lista atendendo os seguintes critérios:
 
-- Deve ser implementado em Kotlin;
 - Cada célula deve ter a imagem, o nome e a nota  do filme;
 - Ao selecionar uma célula, deve abrir uma tela de detalhe com a imagem, o nome, a nota, e a sinopse do filme;
 - Ao selecionar a imagem do filme na tela de detalhe, deve abrir a imagem em fullscreen;
