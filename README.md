@@ -37,7 +37,7 @@ Abaixo está a lista de desafios, separados pelo nome da empresa, link do reposi
 | [Ciclic](ciclic.com.br) | [Desafio Android](./Challenges/c/ciclic/README.md)| 🇧🇷 ||
 | [Claro](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Claro-EI_IE748887.13,18.htm) | [Desafio](./Challenges/c/claro/README.md)| 🇧🇷 ||
 | [Conductor](https://www.glassdoor.com.br/Avalia%C3%A7%C3%B5es/Conductor-Brazil-Avalia%C3%A7%C3%B5es-E1841076.htm) | [Desafio](./Challenges/c/conductor/README.md)| 🇧🇷 ||
-| [Corelab](https://www.corelab.com.br/) | [Desafio](./Challenges/c/corelab/README.md)| 🇧🇷 |✅|
+| [Corelab](https://www.corelab.com.br/) | [Desafio](./Challenges/corelab/README.md)| 🇧🇷 |✅|
 | [Creditas](https://www.creditas.com/) | [Desafio](./Challenges/c/creditas/README.md)| 🇧🇷 ||
 | [Dreamlabs](https://dreamlabs.com.br/) | [Desafio](./Challenges/d/dreamlabs/README.md)| 🇧🇷 ||
 | [Easynvest](https://www.nuinvest.com.br/) | [Desafio](./Challenges/e/easyinvest/README.md)| 🇧🇷 |
@@ -62,10 +62,10 @@ Abaixo está a lista de desafios, separados pelo nome da empresa, link do reposi
 | [Skore](https://support.skore.io/l/pt) | [Desafio](./Challenges/s/Skore/README.md)| 🇧🇷 ||
 | [SnowManLabs](https://snowmanlabs.com.br/) | [Desafio](./Challenges/s/SnowManLabs/README.md)| 🇧🇷 ||
 | [Seekers Capital](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-SEEKERS-Capital-Group-EI_IE2260850.13,34.htm) | [Desafio](./Challenges/s/Seekers%20Capital/README.md)| 🇧🇷 ||
-| [Squad](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Squad-Brazil-EI_IE5388673.13,25.htm) | [Desafio](./Challenges/s/squad/README.md)| 🇧🇷 |
+| [Squad](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Squad-Brazil-EI_IE5388673.13,25.htm) | [Desafio](./Challenges/squad/README.md)| 🇧🇷 |
 | [Stoodi](https://stoodi.com.br/) | [Desafio](./Challenges/s/stoodi/README.md)| 🇧🇷 ||
-| [Tractian](https://tractian.com/) | [Desafio](./Challenges/t/tractian/README.md)| 🇧🇷 |✅|
-| [Verzel](https://verzel.com.br/) | [Desafio](./Challenges/v/verzel/README.md)| 🇧🇷 |✅|
+| [Tractian](https://tractian.com/) | [Desafio](./Challenges/tractian/README.md)| 🇧🇷 |✅|
+| [Verzel](https://verzel.com.br/) | [Desafio](./Challenges/verzel/README.md)| 🇧🇷 |✅|
 | [Viva Decora](https://www.glassdoor.com.br/Avalia%C3%A7%C3%B5es/Viva-Decora-Avalia%C3%A7%C3%B5es-E2779238.htm) | [Desafio Android](./Challenges/v/vivadecora/android/README.md) \ [Desafio IOS](./Challenges/v/vivadecora/ios/README.md)| 🇧🇷 ||
 
 
