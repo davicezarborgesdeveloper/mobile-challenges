@@ -24,8 +24,8 @@ Além de colocar em prática seus conhecimentos adquiridos através de estudos r
 ## Desafios
 Abaixo está a lista de desafios, separados pelo nome da empresa, link do repositório.
 
-|    Empresa   |    Desafio    | País | Feito |
-|------------- | ------------- | ------------- | ------------- |
+|    Empresa   |    Desafio    | País | Feito | Link |
+|------------- | ------------- | ------------- | ------------- | ------------- |
 | [Aiko Digital](https://aiko.digital/) | [Desafio](./Challenges/a/aiko/README.md)| 🇧🇷 |❌|
 | [AirCall](https://aircall.io/) | [Desafio](./Challenges/a/aircall/README.md)| us |❌|
 | [B2WDigital](https://www.glassdoor.com.br/Sal%C3%A1rio/B2W-Companhia-Digital-Sal%C3%A1rios-E5899878.htm) | [Desafio Android](./Challenges/b/b2wdigital/android/README.md) \ [Desafio IOS](./Challenges/b/b2wdigital/ios/README.md)| 🇧🇷 |❌|
@@ -39,7 +39,7 @@ Abaixo está a lista de desafios, separados pelo nome da empresa, link do reposi
 | [Conductor](https://www.glassdoor.com.br/Avalia%C3%A7%C3%B5es/Conductor-Brazil-Avalia%C3%A7%C3%B5es-E1841076.htm) | [Desafio](./Challenges/c/conductor/README.md)| 🇧🇷 |❌|
 | [Corelab](https://www.corelab.com.br/) | [Desafio](./Challenges/corelab/README.md)| 🇧🇷 |❌|
 | [Creditas](https://www.creditas.com/) | [Desafio](./Challenges/c/creditas/README.md)| 🇧🇷 |❌|
-| [Dreamlabs](https://dreamlabs.com.br/) | [Desafio](./Challenges/d/dreamlabs/README.md)| 🇧🇷 |❌|
+| [Dreamlabs](https://dreamlabs.com.br/) | [Desafio](./Challenges/d/dreamlabs/README.md)| 🇧🇷 |✅| [Codigo](https://github.com/davicezarborgesdeveloper/challenge-dreamlabs) |
 | [Easynvest](https://www.nuinvest.com.br/) | [Desafio](./Challenges/e/easyinvest/README.md)| 🇧🇷 |❌|
 | [Eleve Software](https://elevecrm.com.br/) | [Desafio](./Challenges/e/eleveSoftware/README.md)| 🇧🇷 |❌|
 | [Fulllab](https://www.fulllab.com.br/) | [Desafio](./Challenges/f/fulllab/README.md)| 🇧🇷 |❌|
