@@ -37,7 +37,7 @@ Abaixo está a lista de desafios, separados pelo nome da empresa, link do reposi
 | [Ciclic](ciclic.com.br) | [Desafio Android](./Challenges/c/ciclic/README.md)| 🇧🇷 |❌|
 | [Claro](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Claro-EI_IE748887.13,18.htm) | [Desafio](./Challenges/c/claro/README.md)| 🇧🇷 |❌|
 | [Conductor](https://www.glassdoor.com.br/Avalia%C3%A7%C3%B5es/Conductor-Brazil-Avalia%C3%A7%C3%B5es-E1841076.htm) | [Desafio](./Challenges/c/conductor/README.md)| 🇧🇷 |❌|
-| [Corelab](https://www.corelab.com.br/) | [Desafio](./Challenges/corelab/README.md)| 🇧🇷 |❌|
+| [Corelab](https://www.corelab.com.br/) | [Desafio](./Challenges/c/corelab/README.md)| 🇧🇷 |❌|
 | [Creditas](https://www.creditas.com/) | [Desafio](./Challenges/c/creditas/README.md)| 🇧🇷 |❌|
 | [Dreamlabs](https://dreamlabs.com.br/) | [Desafio](./Challenges/d/dreamlabs/README.md)| 🇧🇷 |✅| [Codigo](https://github.com/davicezarborgesdeveloper/challenge-dreamlabs) |
 | [Easynvest](https://www.nuinvest.com.br/) | [Desafio](./Challenges/e/easyinvest/README.md)| 🇧🇷 |❌|
@@ -47,7 +47,6 @@ Abaixo está a lista de desafios, separados pelo nome da empresa, link do reposi
 | [Globo](https://www.globo.com/) | [Desafio](./Challenges/g/globo/README.md)| 🇧🇷 |❌|
 [Hurb](https://www.hurb.com/br) | [Desafio](./Challenges/h/hurb/README.md)| 🇧🇷 |❌|
 | [iCasei](www.icasei.com.br) | [Desafio Android](./Challenges/i/icasei/README.android.md) \ [Desafio IOS](./Challenges/i/icasei/README.ios.md)| 🇧🇷 |❌|
-| [iClinic](https://iclinic.com.br/) | [Desafio](./Challenges/i/iclinic/README.md)| 🇧🇷 |❌|
 | [idwall](https://idwall.co/pt-BR/) | [Desafio](./Challenges/i/idwall/README.md)| 🇧🇷 |❌|
 | [Lemonade Tech](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Lemonade-Brazil-EI_IE2685114.13,28.htm) | [Desafio](./Challenges/l/lemonadeTech/README.md)| 🇧🇷 |❌|
 | [Máxima Tech](https://www.glassdoor.com.br/Avalia%C3%A7%C3%B5es/M%C3%A1ximaTech-Goi%C3%A2nia-Avalia%C3%A7%C3%B5es-EI_IE2448236.0,10_IL.11,18_IC2398468.htm) | [Desafio](https://github.com/talentosmaxima/Android)| 🇧🇷 |❌|
