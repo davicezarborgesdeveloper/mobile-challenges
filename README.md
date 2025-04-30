@@ -45,7 +45,6 @@ Abaixo está a lista de desafios, separados pelo nome da empresa, link do reposi
 | [Fulllab](https://www.fulllab.com.br/) | [Desafio](./Challenges/f/fulllab/README.md)| 🇧🇷 |❌|
 | [Gendo](https://www.gendo.com.br/) | [Desafio](./Challenges//g/gendo/README.md)| 🇧🇷 |❌|
 | [Globo](https://www.globo.com/) | [Desafio](./Challenges/g/globo/README.md)| 🇧🇷 |❌|
-| [Goomer](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Goomer-EI_IE2756050.13,19.htm) | [Desafio](./Challenges/g/goomer/README.md)| 🇧🇷 |❌|
 [Hurb](https://www.hurb.com/br) | [Desafio](./Challenges/h/hurb/README.md)| 🇧🇷 |❌|
 | [iCasei](www.icasei.com.br) | [Desafio Android](./Challenges/i/icasei/README.android.md) \ [Desafio IOS](./Challenges/i/icasei/README.ios.md)| 🇧🇷 |❌|
 | [iClinic](https://iclinic.com.br/) | [Desafio](./Challenges/i/iclinic/README.md)| 🇧🇷 |❌|
