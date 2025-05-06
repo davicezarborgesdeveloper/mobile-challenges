@@ -46,7 +46,7 @@ Abaixo está a lista de desafios, separados pelo nome da empresa, link do reposi
 | [Gendo](https://www.gendo.com.br/) | [Desafio](./Challenges//g/gendo/README.md)| 🇧🇷 |❌|
 | [Globo](https://www.globo.com/) | [Desafio](./Challenges/g/globo/README.md)| 🇧🇷 |❌|
 [Hurb](https://www.hurb.com/br) | [Desafio](./Challenges/h/hurb/README.md)| 🇧🇷 |❌|
-| [iCasei](www.icasei.com.br) | [Desafio Android](./Challenges/i/icasei/README.android.md) \ [Desafio IOS](./Challenges/i/icasei/README.ios.md)| 🇧🇷 |❌|
+| [iCasei](https://www.icasei.com.br/) | [Desafio Android](./Challenges/i/icasei/README.android.md) \ [Desafio IOS](./Challenges/i/icasei/README.ios.md)| 🇧🇷 |❌|
 | [idwall](https://idwall.co/pt-BR/) | [Desafio](./Challenges/i/idwall/README.md)| 🇧🇷 |❌|
 | [Lemonade Tech](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Lemonade-Brazil-EI_IE2685114.13,28.htm) | [Desafio](./Challenges/l/lemonadeTech/README.md)| 🇧🇷 |❌|
 | [Máxima Tech](https://www.glassdoor.com.br/Avalia%C3%A7%C3%B5es/M%C3%A1ximaTech-Goi%C3%A2nia-Avalia%C3%A7%C3%B5es-EI_IE2448236.0,10_IL.11,18_IC2398468.htm) | [Desafio](https://github.com/talentosmaxima/Android)| 🇧🇷 |❌|
