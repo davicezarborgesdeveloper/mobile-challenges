@@ -57,7 +57,7 @@ Abaixo está a lista de desafios, separados pelo nome da empresa, link do reposi
 | [Pitang Agile IT](https://pitang.com/) | [Desafio](./Challenges/p/Pitang%20Agile%20IT/README.md)| 🇧🇷 |❌|
 | [PopcodeMobile](https://www.glassdoor.com.br/Avalia%C3%A7%C3%B5es/Popcode-Mobile-Solutions-Avalia%C3%A7%C3%B5es-E2840737.htm) | [Desafio](./Challenges/p/PopcodeMobile/README.md)| 🇧🇷 |❌|
 | [Safety System Technology](https://safetysystemtechnology.com.br/) | [Desafio](https://github.com/safetysystemtechnology/desafio-mobile)| 🇧🇷 |❌|
-| [Skore](https://support.skore.io/l/pt) | [Desafio](./Challenges/s/Skore/README.md)| 🇧🇷 |❌|
+| [Skore](https://support.skore.io/l/pt) | [Desafio](./Challenges/s/Skore/README.md)| 🇧🇷 |✅| [Codigo](https://github.com/davicezarborgesdeveloper/challenge-skore) |
 | [SnowManLabs](https://snowmanlabs.com.br/) | [Desafio](./Challenges/s/SnowManLabs/README.md)| 🇧🇷 |❌|
 | [Seekers Capital](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-SEEKERS-Capital-Group-EI_IE2260850.13,34.htm) | [Desafio](./Challenges/s/Seekers%20Capital/README.md)| 🇧🇷 |❌|
 | [Squad](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Squad-Brazil-EI_IE5388673.13,25.htm) | [Desafio](./Challenges/squad/README.md)| 🇧🇷 |❌|
